@@ -9,8 +9,9 @@ body {
 :root {
     --primary-color: #FBC444;
     --secondary-color: #0D0E0D;
-    --accent1-color: #d4d4d4; 
-    --accent2-color: #000000;
+    --accent1-color: #70B77E; 
+    --accent2-color: #EEE5E9;
+    --accent3-color: #D64933;
 
     --heading-font: "Madimi One", sans-serif;
     --paragraph-font: "Architects Daughter", cursive;
@@ -23,7 +24,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
     font-family: var(--heading-font);
-    color: var(--accent2-color);
+    color: var(--secondary-color);
 }
 
 header {
