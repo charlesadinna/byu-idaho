@@ -76,7 +76,7 @@ p {
     width: 750px;
     /* margin-left: auto;
     margin-right: auto; */
-    background-color: #105ccf59;
+    background-color: #0c0fda59;
     padding: 10px;  
 }
 
@@ -84,4 +84,8 @@ p {
     width: 130px;
     height: auto;
     float: right;
+}
+
+.hero article p {
+    color: var(--accent2-color);
 }
