@@ -26,10 +26,11 @@ main img{
     padding: 2px;
     box-shadow: 0 0 30px gray;
     float: right;
+    margin: 0 0 1rem 1rem;
 }
 
 p{
-    padding: 0;
+    padding: 1rem;
 }
 
 main{
@@ -66,6 +67,10 @@ footer{
     margin: 1rem;
     border: 1px solid rgba(0, 0, 0, 0.1);
     padding: 1rem;
-    background-color: #75746a;
+    background-color: #adada7;
     color: #000000;
+}
+
+.indent{
+    padding-left: 2rem;
 }
