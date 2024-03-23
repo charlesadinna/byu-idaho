@@ -86,6 +86,9 @@ p {
     float: right;
 }
 
-.hero article p {
+.hero article h6 {
+    padding: 25px;
+    font-family: var(--paragraph-font);
+    font-size: 15px;
     color: var(--accent2-color);
 }
